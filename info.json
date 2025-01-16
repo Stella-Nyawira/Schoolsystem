@@ -1,0 +1,157 @@
+[
+    {
+        "Id": 1,
+        "Name": "Form 1",
+        "Student": [
+            {
+                "Adm": "5123/2024",
+                "Name": "Mary Cooper",
+                "Gender": "Female"
+            },
+            {
+                "Adm": "3201/2024",
+                "Name": "John Kamau",
+                "Gender": "Male"
+            },
+            {
+                "Adm": "3445/2024",
+                "Name": "Phillip Ndegwa",
+                "Gender": "Male"
+            }
+        ],
+        "Exams": [
+            {
+                "Id": 1,
+                "Name": "Opener Exam",
+                "Results": [
+                    {
+                        "Subject": "English",
+                        "Marks": [
+                            {
+                                "Name": "Mary Cooper",
+                                "Marks": 10
+                            },
+                            {
+                                "Name": "John Kamau",
+                                "Marks": 20
+                            },
+                            {
+                                "Name": "Phillip Ndegwa",
+                                "Marks": 45
+                            }
+                        ]
+                    },
+                    {
+                        "Subject": "Science",
+                        "Marks": [
+                            {
+                                "Name": "Mary Cooper",
+                                "Marks": 56
+                            },
+                            {
+                                "Name": "John Kamau",
+                                "Marks": 76
+                            },
+                            {
+                                "Name": "Phillip Ndegwa",
+                                "Marks": 98
+                            }
+                        ]
+                    },
+                    {
+                        "Subject": "Mathematics",
+                        "Marks": [
+                            {
+                                "Name": "Mary Cooper",
+                                "Marks": 90
+                            },
+                            {
+                                "Name": "John Kamau",
+                                "Marks": 12
+                            },
+                            {
+                                "Name": "Phillip Ndegwa",
+                                "Marks": 34
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 2,
+                "Name": "EndTerm Exam",
+                "Results": [
+                    {
+                        "Subject": "English",
+                        "Marks": [
+                            {
+                                "Name": "Mary Cooper",
+                                "Marks": 10
+                            },
+                            {
+                                "Name": "John Kamau",
+                                "Marks": 2
+                            },
+                            {
+                                "Name": "Phillip Ndegwa",
+                                "Marks": 4
+                            }
+                        ]
+                    },
+                    {
+                        "Subject": "Science",
+                        "Marks": [
+                            {
+                                "Name": "Mary Cooper",
+                                "Marks": 67
+                            },
+                            {
+                                "Name": "John Kamau",
+                                "Marks": 45
+                            },
+                            {
+                                "Name": "Phillip Ndegwa",
+                                "Marks": 60
+                            }
+                        ]
+                    },
+                    {
+                        "Subject": "Mathematics",
+                        "Marks": [
+                            {
+                                "Name": "Mary Cooper",
+                                "Marks": 70
+                            },
+                            {
+                                "Name": "John Kamau",
+                                "Marks": 30
+                            },
+                            {
+                                "Name": "Phillip Ndegwa",
+                                "Marks": 10
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 2,
+        "Name": "Form 2",
+        "Student": [
+            {
+                "Adm": "4657/2024",
+                "Name": "Jane Santa",
+                "Gender": "Female"
+            }
+        ],
+        "Exams": [ ]
+    },
+    {
+        "Id": 3,
+        "Name": "Form 3",
+        "Student": [],
+        "Exams": []
+    }
+]

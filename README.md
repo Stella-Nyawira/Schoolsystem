@@ -1,2 +1,0 @@
-# Schoolsystem
-A school system
